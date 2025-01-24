@@ -22,12 +22,21 @@ Project Structure
 The system is divided into nine functional modules:
 
 Connection Provider: Establishes and maintains the database connection.
+
 Login: Ensures secure access for authorized users.
+
 Home: Central dashboard for administrators.
+
 Manage Room: Handles room allocation and management.
+
 New Student: Registers new students into the system.
+
 Update and Delete Students: Allows modifications or removal of student records.
+
 Student Fee: Tracks and updates fee payment records.
+
 Active Students: Displays information on currently enrolled students.
+
 Left Students: Maintains a record of students who have vacated the hostel.
+
 This project addresses common challenges in hostel management, ensuring accuracy, accessibility, and efficiency in day-to-day operations.
